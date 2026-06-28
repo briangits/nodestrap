@@ -9,11 +9,11 @@
     ],
     "homepage": "https://github.com/briangits/nodestrap#readme",
     "bugs": {
-        "url": "https://github.com/briangits/node-lib-template/issues"
+        "url": "https://github.com/briangits/nodestrap/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/briangits/node-lib-template.git"
+        "url": "git+https://github.com/briangits/nodestrap.git"
     },
     "type": "module",
     "main": "./dist/index.js",
